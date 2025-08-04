@@ -21,8 +21,6 @@ A passionate Software Developer and a Postgraduate Student currently working on 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNACHAUDHARI10&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KRISHNACHAUDHARI10&limit=5&theme=dark&combine_all_yearly_contributions=true)
