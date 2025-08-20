@@ -1,4 +1,4 @@
-\💫 Hi 👋, I'm Krishna Chaudhari  
+💫 Hi 👋, I'm Krishna Chaudhari  
 A passionate Software Developer and a Postgraduate Student currently working on a live project.
 
 📚 I’m currently pursuing my **Post-Graduation** and actively learning new technologies to enhance my skills in full-stack development.  
