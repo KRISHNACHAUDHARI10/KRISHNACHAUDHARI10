@@ -9,9 +9,7 @@ A passionate Software Developer and a Postgraduate Student currently working on 
 ## 🌐 Socials:
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@KrishnaChaudhari-ow9ni) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnachaudhari0340@gmail.com) 
 
-## 📜 My Coding Philosophy
 
-I believe that the best code is not just functional, but also elegant and maintainable. For me, software development is a craft that blends logical problem-solving with creative design. My goal is to build applications that are not only robust and scalable but also provide a seamless and intuitive user experience.
 
 > "Talk is cheap. Show me the code." - Linus Torvalds
 # 💻 Tech Stack:
