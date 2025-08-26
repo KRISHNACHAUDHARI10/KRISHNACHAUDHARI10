@@ -9,7 +9,7 @@ A passionate Software Developer and a Postgraduate Student currently working on 
 ## 🌐 Socials:
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@KrishnaChaudhari-ow9ni) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnachaudhari0340@gmail.com) 
 
-
+“Passionate about solving challenging problems through logical thinking and coding.”
 
 > "Talk is cheap. Show me the code." - Linus Torvalds
 # 💻 Tech Stack:
