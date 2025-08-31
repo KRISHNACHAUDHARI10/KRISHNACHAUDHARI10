@@ -30,9 +30,13 @@ I'm dedicated to learning new technologies to enhance my full-stack development 
 
 ### 📈 GitHub Stats:
 
-[![Krishna's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KRISHNACHAUDHARI10&bg_color=191724&color=6e6a86&line=e0e0e0&point=e0e0e0&area=true&hide_border=true)](https://github.com/KRISHNACHAUDHARI10/github-readme-activity-graph)
-<br/>
-![](https://github-profile-trophy.vercel.app/?username=KRISHNACHAUDHARI10&theme=dark&column=7&margin-w=15&margin-h=15)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=omkarlhr9595&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=omkarlhr9595&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
 <br/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KRISHNACHAUDHARI10&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
