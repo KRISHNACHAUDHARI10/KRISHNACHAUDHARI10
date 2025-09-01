@@ -6,7 +6,7 @@ A passionate Software Developer and a Postgraduate Student currently working on 
 
 🚀 Currently working on real-world **software development projects** as part of my academic journey and personal growth.
 
-📬 Email me at: ✉️ krishnachaudhari0340@gmail.com — For Collaboration/Projects or Anything Else.
+📬 Email me at: ✉️ krishnachaudhari0340@gmail.com — For Collaboration/Projects or Anything Else
 
 "Work Superhard".
 
