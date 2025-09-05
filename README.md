@@ -1,3 +1,5 @@
+<img align="right" src="https://images.bookoutlet.com/covers/large/isbn978006/9780062469670-l.jpg" width="120" alt="Elon Musk by Ashlee Vance"/>
+
 💫 Hi 👋, I'm Krishna Chaudhari
 
 A passionate Software Developer and a Postgraduate Student currently working on a live project.
@@ -31,5 +33,3 @@ Coding, Running
 ![](https://github-readme-stats.vercel.app/api?username=KRISHNACHAUDHARI10&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=KRISHNACHAUDHARI10&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNACHAUDHARI10&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
- can you show under elon musk image??
