@@ -1,6 +1,6 @@
 <img align="right" src="https://images.bookoutlet.com/covers/large/isbn978006/9780062469670-l.jpg" width="120" alt="Elon Musk by Ashlee Vance"/>
 
-💫 Hi 👋, I'm Krishna Chaudhari.
+💫 Hi 👋, I'm Krishna Chaudhari 
 
 A passionate Software Developer and a Postgraduate Student currently working on a live project
 
@@ -14,6 +14,8 @@ A passionate Software Developer and a Postgraduate Student currently working on 
 
 Languages:
   Hindi || English || Marathi  || Gujarati  || British English
+
+  
 
 ## 🌐 Socials:
 
