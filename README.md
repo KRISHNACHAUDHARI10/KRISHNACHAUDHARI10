@@ -1,4 +1,4 @@
-<img align="right" src="https://images.bookoutlet.com/covers/large/isbn978006/9780062469670-l.jpg" width="120" alt="Elon Musk by Ashlee Vance"/>
+
 
 💫 Hi 👋, I'm Krishna Chaudhari 
 
