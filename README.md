@@ -15,6 +15,8 @@ A passionate Software Developer and a Postgraduate Student currently working on 
 Languages:
   Hindi || English || Marathi  || Gujarati  || British English(learning)
 
+I like technology because it reduces the time and energy required for tasks, and machines make our work easier and more efficient.
+
   
 
 ## 🌐 Socials:
