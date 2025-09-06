@@ -13,16 +13,7 @@ A passionate Software Developer and a Postgraduate Student currently working on 
 “The only thing that you absolutely have to know, is the location of the library.” — Albert Einstein
 
 Languages:
-
---> Hindi 
-
---> English 
-
---> Marathi 
-
---> Gujarati 
-
---> British English
+  Hindi || English || Marathi  || Gujarati  || British English
 
 ## 🌐 Socials:
 
