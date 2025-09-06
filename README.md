@@ -10,7 +10,7 @@ A passionate Software Developer and a Postgraduate Student currently working on 
 
 📬 Email me at: ✉️ krishnachaudhari0340@gmail.com — For Collaboration/Projects or Anything Else.
 
-"Work Superhard".
+“The only thing that you absolutely have to know, is the location of the library.” — Albert Einstein
 
 ## 🌐 Socials:
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@KrishnaChaudhari-ow9ni) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnachaudhari0340@gmail.com)
