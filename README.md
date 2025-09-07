@@ -27,9 +27,6 @@ I like technology because it reduces the time and energy required for tasks, and
 
 Coding, Running
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=KRISHNACHAUDHARI10&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 
