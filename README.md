@@ -25,7 +25,8 @@ I like technology because it reduces the time and energy required for tasks, and
 
 ### Interests:
 
-Coding, Running
+Backend Devlopment
+
 
 ## 🏆 GitHub Trophies
 
