@@ -16,6 +16,7 @@ Languages:
   Hindi || English || Marathi  || Gujarati  || British English(learning)
 
 I like technology because it reduces the time and energy required for tasks, and machines make our work easier and more efficient.
+Yes doing somthing useful  for other people that I liked  doing
 
   
 
